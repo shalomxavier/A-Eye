@@ -1,6 +1,6 @@
 # A-Eye – AI Assistant for the Visually Impaired
 
-A-Eye is an AI-powered Flask application designed to assist visually impaired individuals by converting visual information into meaningful audio descriptions. It performs real-time image captioning, object detection, face recognition, and emotion analysis using advanced deep learning models.
+A-Eye is an AI-powered application designed to assist visually impaired individuals by converting visual information into meaningful audio descriptions. It performs real-time image captioning, object detection, face recognition, and emotion analysis using advanced deep learning models.
 
 - Understand who is in front of them
 - Know what objects are around
